@@ -15,7 +15,7 @@ Both should be installed and make sure mongodb is running.
 
 ```shell
 git clone https://github.com/1Ankitk/Talkify.git
-cd chat-app-mern-stack
+cd Talkify-master
 ```
 
 Now install the dependencies
